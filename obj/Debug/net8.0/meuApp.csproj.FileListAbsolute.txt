@@ -1,0 +1,14 @@
+/home/pc-pedro-2223203484/meuApp/bin/Debug/net8.0/meuApp
+/home/pc-pedro-2223203484/meuApp/bin/Debug/net8.0/meuApp.deps.json
+/home/pc-pedro-2223203484/meuApp/bin/Debug/net8.0/meuApp.runtimeconfig.json
+/home/pc-pedro-2223203484/meuApp/bin/Debug/net8.0/meuApp.dll
+/home/pc-pedro-2223203484/meuApp/bin/Debug/net8.0/meuApp.pdb
+/home/pc-pedro-2223203484/meuApp/obj/Debug/net8.0/meuApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/pc-pedro-2223203484/meuApp/obj/Debug/net8.0/meuApp.AssemblyInfoInputs.cache
+/home/pc-pedro-2223203484/meuApp/obj/Debug/net8.0/meuApp.AssemblyInfo.cs
+/home/pc-pedro-2223203484/meuApp/obj/Debug/net8.0/meuApp.csproj.CoreCompileInputs.cache
+/home/pc-pedro-2223203484/meuApp/obj/Debug/net8.0/meuApp.dll
+/home/pc-pedro-2223203484/meuApp/obj/Debug/net8.0/refint/meuApp.dll
+/home/pc-pedro-2223203484/meuApp/obj/Debug/net8.0/meuApp.pdb
+/home/pc-pedro-2223203484/meuApp/obj/Debug/net8.0/meuApp.genruntimeconfig.cache
+/home/pc-pedro-2223203484/meuApp/obj/Debug/net8.0/ref/meuApp.dll
